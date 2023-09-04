@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eggx50000)](https://solved.ac/eggx50000)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ostrich07)](https://solved.ac/ostrich07)
+[![atcoder.jp Profile](http://mazassumnida.wtf/api/generate_badge?boj=eggx50000)](https://atcoder.jp/eggx50000)
