@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning algorithm
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eggx50000)](https://solved.ac/eggx50000)
+
 💻 https://codeforces.com/profile/Eggment_tree
 
